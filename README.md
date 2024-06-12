@@ -1,4 +1,4 @@
-College Website Project
+#College Website Project
 Welcome to the College Website Project! This project was developed during my internship at SRKR Engineering College. It is built using Python and Django, showcasing my ability to create dynamic and responsive web applications.
 
 Features
